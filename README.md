@@ -64,7 +64,7 @@ git clone https://github.com/mch750018-byte/Student-CRUD-Spring-Boot.git
 
 4. Run the main Spring Boot application.
 
-## 🛠️ Database Configuration
+##  Database Configuration
 
 Configure your database URL, username, and password in:
 
@@ -78,6 +78,4 @@ Mohit Chauhan
 
 GitHub: [mch750018-byte](https://github.com/mch750018-byte)
 
----
-
-⭐ If you find this project useful, feel free to star the repository!
+ If you find this project useful, feel free to star the repository!
