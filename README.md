@@ -2,7 +2,7 @@
 
 A Student Management System developed using Java, Spring Boot, Spring Data JPA, and MySQL. This project demonstrates REST API development and database operations using CRUD functionality.
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - Java
 - Spring Boot
@@ -12,7 +12,7 @@ A Student Management System developed using Java, Spring Boot, Spring Data JPA, 
 - IntelliJ IDEA
 - Git & GitHub
 
-## ✨ Features
+##  Features
 
 - Add a new student
 - Retrieve all students
@@ -22,7 +22,7 @@ A Student Management System developed using Java, Spring Boot, Spring Data JPA, 
 - Database integration using MySQL
 - RESTful API architecture
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 src/main/java/
@@ -41,7 +41,7 @@ src/main/resources/
     application.properties
 ```
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 Make sure you have installed:
 
@@ -50,7 +50,7 @@ Make sure you have installed:
 - MySQL Server
 - Maven
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -72,7 +72,7 @@ Configure your database URL, username, and password in:
 
 Never upload real database passwords or credentials to GitHub.
 
-## 👨‍💻 Author
+##  Author
 
 Mohit Chauhan
 
